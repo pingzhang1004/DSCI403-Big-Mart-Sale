@@ -1,4 +1,6 @@
 # DSCI403-Big-Mart-Sale
+##### Using Python
+
 ![image](https://github.com/pingzhang1004/DSCI403-Big-Mart-Sale/blob/main/Poster_DSCI403_PingZhang.png)
 
 #### 1. Utilized the Seaborn library of Python to visualize the exploration of data  and bivariate analysis.
