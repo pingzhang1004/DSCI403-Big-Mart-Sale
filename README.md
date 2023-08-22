@@ -1,5 +1,7 @@
 # DSCI403-Big-Mart-Sale
-##### Using Python
+###### * Using Python programming language 
+###### * I'd be happy to provide source code for interviews!
+###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
 
 ![image](https://github.com/pingzhang1004/DSCI403-Big-Mart-Sale/blob/main/Poster_DSCI403_PingZhang.png)
 
